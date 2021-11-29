@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyDial</string>
+    <string name="app_txt">1-st Activity</string>
+    <string name="app_txt2">2-st Activity</string>
+    <string name="btnNext">Go to 2-nd</string>
+    <string name="btnBack">Go to 1-st</string>
+    <string name="btnDial">Dialog</string>
+
+    <string name="dialTitle">1. Groups Dialog</string>
+    <string name="member1">Dāniels Dementjevs</string>
+    <string name="member2">Renārs Pikaļovs</string>
+    <string name="member3">Verners Kviesis</string>
+    <string name="member4">Roberts Vilcāns</string>
+    <string name="btnClose">Close</string>
+    <string name="btnOK">OK</string>
+</resources>
