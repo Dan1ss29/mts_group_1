@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PW2</string>
+    <string name="btn_text1">Go to 2-nd</string>
+    <string name="btn_text2">Dialog</string>
+    <string name="btn_text3">Go Back</string>
+    <string name="activity_text1">1-st Activity</string>
+    <string name="activity_text2">2-nd Activity</string>
+    <string name="dialog_header">1. Group\'s Dialog</string>
+    <string name="member_1">Dāniels Dementjevs</string>
+    <string name="member_2">Verners Kviesis</string>
+    <string name="member_3">Renars Pikalovs</string>
+    <string name="member_4">Roberts Vilcans</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_okay">OK</string>
+</resources>
