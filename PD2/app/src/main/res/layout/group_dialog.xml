@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutDialog"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:background="#abe5ab"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtGroupDialog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/dialog_title"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/cbxMember1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/cbxDev1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/developer1"
+        android:textSize="12sp" />
+    <CheckBox
+        android:id="@+id/cbxDev2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/developer2"
+        android:textSize="12sp" />
+    <CheckBox
+        android:id="@+id/cbxDev3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/developer3"
+        android:textSize="12sp" />
+    <CheckBox
+        android:id="@+id/cbxDev4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/developer4"
+        android:textSize="12sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnClose"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_close" />
+        <Space
+            android:layout_width="28dp"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btnOK"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_ok" />
+    </LinearLayout>
+</LinearLayout>

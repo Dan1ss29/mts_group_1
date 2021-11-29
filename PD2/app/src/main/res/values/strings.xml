@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dialog</string>
+
+    //pirmais
+    <string name="activity_text">1-st Activity</string>
+    <string name="activity_text2">Go to 2-nd</string>
+    <string name="activity_text3">Dialog</string>
+    // dialogs
+    <string name="dialog_title">1. Group\'s Dialog</string>
+    <string name="developer1">Renars Pikalovs</string>
+    <string name="developer2">Daniels Dementjevs</string>
+    <string name="developer3">Verners Kviesis</string>
+    <string name="developer4">Roberts Vilcans</string>
+    <string name="dialog_close">Close</string>
+    <string name="dialog_ok">OK</string>
+    // otrais
+    <string name="activity_text4">2-st Activity</string>
+    <string name="BACK">Back</string>
+
+</resources>
