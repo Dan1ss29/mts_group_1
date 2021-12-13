@@ -36,11 +36,17 @@ public class SecondFragment extends Fragment {
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
-        sharedPref.getString("Jusu_vards","");
-        binding.textviewSecond.setText(sharedPref.getString("Jusu_vards",""));
+        String stuff= sharedPref.getString("Jusu_vards","");
 
-
-
+        binding.buttonPref.setOnClickListener(v ->{
+        switch (stuff) {
+            case "":
+                Toast.makeText(getActivity(), "Nothing found", Toast.LENGTH_LONG).show();
+                break;
+            default:
+                binding.textviewSecond.setText(stuff);
+                Toast.makeText(getActivity(), "Text is: " + stuff, Toast.LENGTH_LONG).show();
+        }});
 
         binding.buttonSecond.setOnClickListener(new View.OnClickListener() {
             @Override
