@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+#Mon Dec 13 23:05:23 EET 2021
+=======
 #Mon Dec 13 22:57:26 EET 2021
+>>>>>>> 443d3f0aadf654ba0340a467c6984cd6354a5c60
 path.3=8/classes.dex
 path.2=11/classes.dex
 path.1=0/classes.dex

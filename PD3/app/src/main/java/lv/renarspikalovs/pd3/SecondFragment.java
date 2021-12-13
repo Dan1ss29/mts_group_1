@@ -26,8 +26,6 @@ public class SecondFragment extends Fragment {
             LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState
     ) {
-            Resources res = getResources();
-            String [] themes = res.getStringArray(R.array.themes);
         binding = FragmentSecondBinding.inflate(inflater, container, false);
         return binding.getRoot();
 
