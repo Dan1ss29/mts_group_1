@@ -38,7 +38,8 @@ public class FirstFragment extends Fragment {
 
         SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedPref.edit();
-
+        String inputFieldValue= sharedPref.getString("Jusu_vards","");
+        binding.inputField.setText(inputFieldValue);
        int spinnerValue = sharedPref.getInt("theme", 0);
         binding.spinner.setSelection(spinnerValue);
         binding.spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
