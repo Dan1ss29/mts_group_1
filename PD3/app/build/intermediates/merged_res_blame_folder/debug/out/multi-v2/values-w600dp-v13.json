@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\night\\AndroidStudioProjects\\PD3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "outputFile": "C:\\Users\\night\\AndroidStudioProjects\\mts_group_1\\PD3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\night\\AndroidStudioProjects\\PD3\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "C:\\Users\\night\\AndroidStudioProjects\\mts_group_1\\PD3\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

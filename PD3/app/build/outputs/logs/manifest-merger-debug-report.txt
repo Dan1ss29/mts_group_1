@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\night\.gradle\caches\transforms-3\aedac3ef7d5f2c617ead8656bf92c449\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\night\.gradle\caches\transforms-3\e84b042f48f9f14485261c47d99dc9c6\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\night\.gradle\caches\transforms-3\f794c157ce27c216c504b2261e60ef5d\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -48,25 +48,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\night\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\night\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\night\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\night\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:5:5-23:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\night\.gradle\caches\transforms-3\f794c157ce27c216c504b2261e60ef5d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\night\.gradle\caches\transforms-3\f794c157ce27c216c504b2261e60ef5d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\night\.gradle\caches\transforms-3\102de147192b5ae927c001061465296f\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -84,41 +84,41 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\night\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\night\.gradle\caches\transforms-3\21249a56641fb0309777a5ae16ce99ff\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:11:9-41
 activity#lv.renarspikalovs.pd3.MainActivity
-ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:12:9-22:20
+ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:12:9-22:20
 	android:label
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:15:13-45
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:15:13-45
 	android:exported
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:14:13-36
 	android:theme
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:16:13-57
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:16:13-57
 	android:name
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\night\.gradle\caches\transforms-3\aedac3ef7d5f2c617ead8656bf92c449\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\night\.gradle\caches\transforms-3\aedac3ef7d5f2c617ead8656bf92c449\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\night\.gradle\caches\transforms-3\e84b042f48f9f14485261c47d99dc9c6\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
@@ -207,16 +207,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\night\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\night\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\night\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\night\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\night\AndroidStudioProjects\PD3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\night\AndroidStudioProjects\mts_group_1\PD3\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\night\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\night\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\night\\AndroidStudioProjects\\PD3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\night\\AndroidStudioProjects\\mts_group_1\\PD3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\night\\AndroidStudioProjects\\PD3\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "source": "C:\\Users\\night\\AndroidStudioProjects\\mts_group_1\\PD3\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
