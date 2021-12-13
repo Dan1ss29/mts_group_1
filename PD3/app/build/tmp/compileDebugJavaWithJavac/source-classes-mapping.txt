@@ -1,7 +1,6 @@
-lv/renarspikalovs/pd3/FirstFragment.java
- lv.renarspikalovs.pd3.FirstFragment
- lv.renarspikalovs.pd3.FirstFragment$1
- lv.renarspikalovs.pd3.FirstFragment$2
+lv/renarspikalovs/pd3/SecondFragment.java
+ lv.renarspikalovs.pd3.SecondFragment
+ lv.renarspikalovs.pd3.SecondFragment$1
 lv/renarspikalovs/pd3/databinding/FragmentFirstBinding.java
  lv.renarspikalovs.pd3.databinding.FragmentFirstBinding
 lv/renarspikalovs/pd3/MainActivity.java
@@ -15,6 +14,7 @@ lv/renarspikalovs/pd3/databinding/ActivityMainBinding.java
  lv.renarspikalovs.pd3.databinding.ActivityMainBinding
 lv/renarspikalovs/pd3/BuildConfig.java
  lv.renarspikalovs.pd3.BuildConfig
-lv/renarspikalovs/pd3/SecondFragment.java
- lv.renarspikalovs.pd3.SecondFragment
- lv.renarspikalovs.pd3.SecondFragment$1
+lv/renarspikalovs/pd3/FirstFragment.java
+ lv.renarspikalovs.pd3.FirstFragment
+ lv.renarspikalovs.pd3.FirstFragment$1
+ lv.renarspikalovs.pd3.FirstFragment$2
