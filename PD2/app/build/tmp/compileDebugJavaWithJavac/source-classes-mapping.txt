@@ -1,0 +1,12 @@
+lv/renarspikalovs/mysuperawesomeapp/BuildConfig.java
+ lv.renarspikalovs.mysuperawesomeapp.BuildConfig
+lv/renarspikalovs/mysuperawesomeapp/ui/main/MainFragment.java
+ lv.renarspikalovs.mysuperawesomeapp.ui.main.MainFragment
+lv/renarspikalovs/mysuperawesomeapp/ui/main/MainViewModel.java
+ lv.renarspikalovs.mysuperawesomeapp.ui.main.MainViewModel
+lv/renarspikalovs/mysuperawesomeapp/MainActivity2.java
+ lv.renarspikalovs.mysuperawesomeapp.MainActivity2
+ lv.renarspikalovs.mysuperawesomeapp.MainActivity2$1
+lv/renarspikalovs/mysuperawesomeapp/MainActivity.java
+ lv.renarspikalovs.mysuperawesomeapp.MainActivity
+ lv.renarspikalovs.mysuperawesomeapp.MainActivity$1

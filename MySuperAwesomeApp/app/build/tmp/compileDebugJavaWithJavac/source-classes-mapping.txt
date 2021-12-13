@@ -1,0 +1,4 @@
+lv/renarspikalovs/mysuperawesomeapp/BuildConfig.java
+ lv.renarspikalovs.mysuperawesomeapp.BuildConfig
+lv/renarspikalovs/mysuperawesomeapp/MainActivity.java
+ lv.renarspikalovs.mysuperawesomeapp.MainActivity
