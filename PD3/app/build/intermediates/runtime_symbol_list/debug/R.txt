@@ -2564,8 +2564,6 @@ int string exposed_dropdown_menu_content_description 0x7f11002b
 int string fab_transformation_scrim_behavior 0x7f11002c
 int string fab_transformation_sheet_behavior 0x7f11002d
 int string first_fragment_label 0x7f11002e
-int string hello_first_fragment 0x7f11002f
-int string hello_second_fragment 0x7f110030
 int string hide_bottom_view_on_scroll_behavior 0x7f110031
 int string icon_content_description 0x7f110032
 int string item_view_role_description 0x7f110033
