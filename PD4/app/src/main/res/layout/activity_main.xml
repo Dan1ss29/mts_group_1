@@ -201,9 +201,9 @@
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/button9"
-        android:layout_alignStart="@+id/button9"
         android:layout_below="@+id/button9"
+        android:layout_alignStart="@+id/button9"
+        android:layout_alignLeft="@+id/button9"
         android:text="C" />
 
     <Button
@@ -221,5 +221,45 @@
         android:layout_marginEnd="-3dp"
         android:layout_marginRight="-3dp"
         android:text="=" />
+
+    <Button
+        android:id="@+id/buttonMC"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignTop="@+id/edt1"
+        android:layout_marginStart="-14dp"
+        android:layout_marginTop="159dp"
+        android:layout_marginEnd="0dp"
+        android:layout_toStartOf="@+id/button3"
+        android:text="MC" />
+
+    <Button
+        android:id="@+id/buttonMS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignLeft="@+id/buttonMR"
+        android:layout_alignTop="@+id/edt1"
+        android:layout_marginStart="119dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginTop="159dp"
+        android:layout_marginEnd="-127dp"
+        android:layout_toStartOf="@+id/button3"
+        android:text="MS" />
+
+    <Button
+        android:id="@+id/buttonMR"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignLeft="@+id/buttonMC"
+        android:layout_alignTop="@+id/edt1"
+        android:layout_marginStart="55dp"
+        android:layout_marginLeft="69dp"
+        android:layout_marginTop="159dp"
+        android:layout_marginEnd="-66dp"
+        android:layout_toStartOf="@+id/button3"
+        android:text="MR" />
 
 </RelativeLayout>

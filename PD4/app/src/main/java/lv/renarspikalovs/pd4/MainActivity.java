@@ -10,10 +10,10 @@ public class MainActivity extends AppCompatActivity {
 
     Button button0, button1, button2, button3, button4, button5, button6,
             button7, button8, button9, buttonAdd, buttonSub, buttonDivision,
-            buttonMul, button10, buttonC, buttonEqual;
+            buttonMul, button10, buttonC, buttonEqual , buttonMC , buttonMR , buttonMS;
     EditText EditTextCalculate;
 
-    float mValueOne, mValueTwo;
+    float mValueOne, mValueTwo, savedValue, randomValue=0;
 
     boolean calculateAddition, calculateSubtract, calculateMultiplication, calculateDivision;
 
@@ -41,8 +41,29 @@ public class MainActivity extends AppCompatActivity {
         buttonDivision = (Button) findViewById(R.id.buttondiv);
         buttonC = (Button) findViewById(R.id.buttonC);
         buttonEqual = (Button) findViewById(R.id.buttoneql);
+        buttonMC = (Button) findViewById(R.id.buttonMC);
+        buttonMR = (Button) findViewById(R.id.buttonMR);
+        buttonMS = (Button) findViewById(R.id.buttonMS);
         EditTextCalculate = (EditText) findViewById(R.id.edt1);
 
+        buttonMS.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                savedValue= Float.parseFloat(EditTextCalculate.getText() + "");
+            }
+        });
+        buttonMR.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                EditTextCalculate.setText(EditTextCalculate.getText() + "" + savedValue);
+            }
+        });
+        buttonMC.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                savedValue= randomValue;
+            }
+        });
 
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
